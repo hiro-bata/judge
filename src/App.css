@@ -39,5 +39,7 @@
 
 .app {
   margin: 50px;
+  padding: 50px;
+  border: dotted 80px black;
 }
 

@@ -42,7 +42,7 @@ render(){
   console.log(option)
   return(
     <div className="app">
-      <h1 className="font-weight-bold">Judge</h1><br/>
+      <h1 className="font-weight-bold" >Judge</h1><br/>
       <form onSubmit={this.doSubmit}>
         <label className="font-weight-bold">
           選択肢を入力→
